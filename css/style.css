@@ -414,6 +414,9 @@ a {
   #container .share {
     padding: 3px 10px;
   }
+  #container .share_jia {
+    margin-left: 10px;
+  }
   #container .duoshuo {
     padding: 0 13px;
   }
@@ -1642,6 +1645,9 @@ pre .css ~ * .id {
 }
 .footer-right {
   float: right;
+}
+.share_jia {
+  margin-left: 30px;
 }
 .share {
   padding: 0px 75px 30px 40px;
