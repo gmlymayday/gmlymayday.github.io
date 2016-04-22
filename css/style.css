@@ -252,9 +252,9 @@ a {
 }
 #container .left-col .intrude-less {
   width: 76%;
+  top: 67px;
   text-align: center;
   position: absolute;
-  margin: 112px auto 0;
 }
 #container .mid-col {
   position: absolute;
@@ -541,7 +541,7 @@ a {
   cursor: pointer;
   text-transform: uppercase;
   float: none;
-  min-height: 150px;
+  height: 150px;
   margin-left: -12px;
   text-align: center;
   display: -webkit-box;
